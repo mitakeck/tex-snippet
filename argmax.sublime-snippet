@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\argmax_{$1}
+]]></content>
+	<tabTrigger>argmax</tabTrigger>
+	<scope>text.tex,tex</scope>
+</snippet>

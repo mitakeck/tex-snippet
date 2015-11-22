@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\inf \{$1\}
+]]></content>
+	<tabTrigger>inf</tabTrigger>
+	<scope>text.tex,tex</scope>
+</snippet>

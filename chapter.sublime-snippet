@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\chapter{$1}
+]]></content>
+	<tabTrigger>chapter</tabTrigger>
+	<scope>text.tex,tex</scope>
+</snippet>

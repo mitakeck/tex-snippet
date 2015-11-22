@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\prod^{$1}_{$2}
+]]></content>
+	<tabTrigger>prod</tabTrigger>
+	<scope>text.tex,tex</scope>
+</snippet>

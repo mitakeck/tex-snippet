@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\bm{grad} 
+]]></content>
+	<tabTrigger>grad</tabTrigger>
+	<scope>text.tex,tex</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+2 \times 2
+]]></content>
+	<tabTrigger>2x2</tabTrigger>
+	<scope>text.tex,tex</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\sup \{$1\}
+]]></content>
+	<tabTrigger>sup</tabTrigger>
+	<scope>text.tex,tex</scope>
+</snippet>

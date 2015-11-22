@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\mathbb{R}^{$1}
+]]></content>
+	<tabTrigger>R^</tabTrigger>
+	<scope>text.tex,tex</scope>
+</snippet>

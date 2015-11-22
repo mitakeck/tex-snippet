@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[\left[
+    \begin{array}{${1:ccc}}
+    	$2
+    \end{array}
+  \right]
+]]></content>
+	<tabTrigger>matrix[]</tabTrigger>
+	<scope>text.tex,tex</scope>
+</snippet>

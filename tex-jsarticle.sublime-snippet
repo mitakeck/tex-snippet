@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[\documentclass{jsarticle}
+
+\usepackage[dvipdfmx]{graphicx}
+
+\begin{document}
+\tableofcontents
+
+$1
+
+\end{document}
+]]></content>
+	<tabTrigger>tex:jsarticle</tabTrigger>
+</snippet>

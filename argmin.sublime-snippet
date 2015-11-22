@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\argmin_{$1}
+]]></content>
+	<tabTrigger>argmin</tabTrigger>
+	<scope>text.tex,tex</scope>
+</snippet>

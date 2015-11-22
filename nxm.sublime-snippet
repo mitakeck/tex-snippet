@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+n \times m
+]]></content>
+	<tabTrigger>nxm</tabTrigger>
+	<scope>text.tex,tex</scope>
+</snippet>

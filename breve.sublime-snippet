@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\breve{$1}
+]]></content>
+	<tabTrigger>breve</tabTrigger>
+	<scope>text.tex,tex</scope>
+</snippet>

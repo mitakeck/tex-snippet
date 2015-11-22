@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\bibitem{$1} $2
+]]></content>
+	<tabTrigger>bibitem</tabTrigger>
+	<scope>text.tex,tex</scope>
+</snippet>

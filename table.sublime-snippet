@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[\begin{table}[ht]
+	\centering
+ 	\begin{tabular}{$1} \hline
+		$4
+	\end{tabular}
+	\caption{$2}
+	\label{$3}
+\end{table}
+]]></content>
+	<tabTrigger>table</tabTrigger>
+	<scope>text.tex,tex</scope>
+</snippet>

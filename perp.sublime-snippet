@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\perp{$1}
+]]></content>
+	<tabTrigger>perp</tabTrigger>
+	<scope>text.tex,tex</scope>
+</snippet>

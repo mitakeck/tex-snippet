@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\lceil $1 \rceil
+]]></content>
+	<tabTrigger>ceil</tabTrigger>
+	<scope>text.tex,tex</scope>
+</snippet>

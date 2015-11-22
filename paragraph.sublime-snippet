@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\paragraph{$1}
+]]></content>
+	<tabTrigger>paragraph</tabTrigger>
+	<scope>text.tex,tex</scope>
+</snippet>

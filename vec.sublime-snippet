@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\vec{$1}
+]]></content>
+	<tabTrigger>vec</tabTrigger>
+	<scope>text.tex,tex</scope>
+</snippet>

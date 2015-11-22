@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+3 \times 3
+]]></content>
+	<tabTrigger>3x3</tabTrigger>
+	<scope>text.tex,tex</scope>
+</snippet>

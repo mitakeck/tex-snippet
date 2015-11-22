@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+\begin{figure}[ht]
+	\begin{center}
+		\includegraphics[width=.40\textwidth]{${1:path}}
+		\caption{${2:caption}}
+		\label{${3:label}}
+	\end{center}
+\end{figure}
+]]></content>
+	<tabTrigger>figure</tabTrigger>
+	<scope>text.tex,tex</scope>
+</snippet>
