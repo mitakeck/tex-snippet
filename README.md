@@ -8,10 +8,10 @@ SublimeText で TeX の入力を補助する Snippet 郡
 ## セットアップ
 
 ```
-cd ~/Library/Application Support/Sublime Text 3/Packages/User/
+cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User 
 git clone https://github.com/mitakeck/tex-snippet.git
 ```
 
 ## 使い方
 
-...
+![demo.gif](demo.gif)
